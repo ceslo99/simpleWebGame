@@ -1,4 +1,4 @@
-# simpleWebGame (Dodge the Falling stars)
+# simpleWebGame
 https://celwebgame.glitch.me/ 
 
 # WebGame
