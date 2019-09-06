@@ -1,8 +1,6 @@
 # simpleWebGame
 https://celwebgame.glitch.me/ 
 
-# WebGame
-
 Falling rectangle user has to dodge with mouse. Used HTML, CSS and JavaScript.  
 If user gets hit by rectangle then score is displayed.  
 
