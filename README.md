@@ -6,6 +6,6 @@ If user gets hit by rectangle then score is displayed.
 
 # What I Learned
 
-* Implementing JavaScrpt into a website to create game
+* Implementing JavaScript into a website to create game
 
 ![](webGame.png)
